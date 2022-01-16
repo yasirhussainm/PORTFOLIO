@@ -1,2 +1,2 @@
 # PORTFOLIO
-https://yasirhussainm.github.io/portfolio/
+https://portfolio-yasir.web.app/
